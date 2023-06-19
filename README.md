@@ -1,2 +1,2 @@
 # drum-kit-website
-created a drumkit website using html, css, js and jquery.
+[view site](https://twinkletoes8112.github.io/drum-kit-website/)
